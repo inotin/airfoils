@@ -39,7 +39,7 @@
   <h3 align="center">Airfoils</h3>
 
   <p align="center">
-    project_description
+    The goal of this projet is to build a model for prediction of aerodynamic characteristics of an airfoil based on its geometry.
     <br />
     <a href="https://github.com/inotin/airfoils"><strong>Explore the docs »</strong></a>
     <br />
@@ -91,6 +91,12 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
+### To-do
+- [x] Data preprocessing
+- [x] Visuals
+- [x] Implement a Random Forest Model
+- [ ] Build a NN model 
+- [ ] Obtain more data
 
 ### Built With
 
